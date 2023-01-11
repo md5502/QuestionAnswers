@@ -1,7 +1,6 @@
 # questionasnswer
 
-it is practice for learing vue js 
-
+it is practice for learning vue js
 i use a api and every request return a bunch of questions with multi answers to challenge yourself
 
 ## Project setup
